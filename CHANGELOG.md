@@ -2,6 +2,14 @@
 
 This file is used to list changes made in each version of the rsyslog cookbook.
 
+## 6.0.10 (2019-03-08)
+
+- Remove remote.conf when no more remote servers
+
+## 6.0.9 (2019-03-06)
+
+- Enhance imfile template management
+
 ## 6.0.8 (2019-03-05)
 
 - Fix default group and dir-group for RHEL-derived linux config
